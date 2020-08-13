@@ -1,3 +1,6 @@
+The title of filenames provide a context of the supply chain simulation model that has been built using python . 
+The excel files provided configure the model.For the multi item supply chain model the no of rows represent the no of items considered in the model 
+
 To get the plots to work, the following needs to be done first.
 1. Extract the zip file named 'ffmpeg-20180630-9f0077c-win64-static'
 2. Copy the extracted folder into C: Drive
